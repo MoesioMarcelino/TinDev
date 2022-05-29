@@ -1,7 +1,5 @@
 # :purple_heart: TinDev
 
-This is a project developed on Bootcamp Rocketseat for help me to improve knowledgements about Redux + Flux Architecture.
-
 ## Installation
 
 Use [yarn](https://classic.yarnpkg.com/pt-BR/docs/install/#debian-stable) or the node package manager [npm](https://www.npmjs.com/get-npm) to install the application.
